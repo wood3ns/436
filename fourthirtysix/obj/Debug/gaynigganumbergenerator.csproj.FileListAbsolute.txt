@@ -1,0 +1,7 @@
+C:\Users\noodles\source\repos\gaynigganumbergenerator\gaynigganumbergenerator\bin\Debug\gaynigganumbergenerator.exe.config
+C:\Users\noodles\source\repos\gaynigganumbergenerator\gaynigganumbergenerator\bin\Debug\gaynigganumbergenerator.exe
+C:\Users\noodles\source\repos\gaynigganumbergenerator\gaynigganumbergenerator\bin\Debug\gaynigganumbergenerator.pdb
+C:\Users\noodles\source\repos\gaynigganumbergenerator\gaynigganumbergenerator\obj\Debug\gaynigganumbergenerator.csprojAssemblyReference.cache
+C:\Users\noodles\source\repos\gaynigganumbergenerator\gaynigganumbergenerator\obj\Debug\gaynigganumbergenerator.csproj.CoreCompileInputs.cache
+C:\Users\noodles\source\repos\gaynigganumbergenerator\gaynigganumbergenerator\obj\Debug\gaynigganumbergenerator.exe
+C:\Users\noodles\source\repos\gaynigganumbergenerator\gaynigganumbergenerator\obj\Debug\gaynigganumbergenerator.pdb
